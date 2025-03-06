@@ -1,2 +1,2 @@
 # WebDevelopment
-Web Development learnt by RD INFRO Technology
+Web Development learned by RD INFRO Technology
